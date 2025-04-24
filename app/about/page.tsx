@@ -1,5 +1,4 @@
-// app/about/page.tsx
-"use client"
+"use client";
 import React from 'react';
 
 const About = () => {
@@ -34,7 +33,7 @@ const About = () => {
         <div className="mt-8 text-lg max-w-2xl mx-auto">
           <ul className="list-disc list-inside">
             <li>Playing Video Games</li>
-            <li>Solved Rubik's Cube</li>
+            <li>Solved Rubik&apos;s Cube</li>
             <li>Cricket</li>
             <li>Coding</li>
             <li>Game Development</li>
@@ -43,9 +42,7 @@ const About = () => {
       </div>
 
       {/* Resume Section */}
-      
-      </div>
-    
+    </div>
   );
 };
 
@@ -59,3 +56,4 @@ const SkillCard = ({ title }: { title: string }) => {
 };
 
 export default About;
+
