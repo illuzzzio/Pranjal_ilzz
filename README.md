@@ -1,3 +1,56 @@
+# My Portfolio
+
+Welcome to my personal portfolio! This website showcases my skills, projects, and experience. Built with **Next.js** and deployed on **Vercel**, it highlights my work and links to my social profiles.
+
+## Features
+- **React Three Fiber** for stunning 3D effects and animations
+
+  
+## Technologies Used
+- **Next.js**: For building the app with server-side rendering and static site generation
+- **React Three Fiber**: For creating beautiful 3D effects and animations
+- **Vercel**: For seamless deployment
+
+## Installation
+
+To run the project locally:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/your-portfolio.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd your-portfolio
+    ```
+
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+4. Run the development server:
+    ```bash
+    npm run dev
+    ```
+
+5. Open the app in your browser at `http://localhost:3000`.
+
+## Contributing
+If you'd like to contribute, feel free to fork the repo, make changes, and submit a pull request!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+You can reach me via:
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+
+Thank you for checking out my portfolio!
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
