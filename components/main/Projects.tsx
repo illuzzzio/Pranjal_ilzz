@@ -37,6 +37,12 @@ const Projects = () => {
           title="The Living God"
           description="A pure C++ terminal game with ASCII graphics and puzzles. Unique and creative. Visit my GitHub for checking them out."
         />
+
+         <ProjectCard
+          src="/MDC.png"
+          title="Dental Clinic Appointment App"
+          description="An webapp designed by me for Dr Sidharth Malhotra's dental clinic. made using firebase, Next.js and tailwind. The app can help patient to view services at the clinic, and even book appointments. patient has to login via patient login, and when the doctor is logged in via his own specific credintials, he can reject or approve the appoinntent requests.Also there is a Dental assistant created on Gemini AI,s api, which can ask various questions related to dental Procedures and other dental terms..."
+        />
       </div>
     </div>
   );
