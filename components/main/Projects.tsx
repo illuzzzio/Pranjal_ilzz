@@ -43,6 +43,11 @@ const Projects = () => {
           title="Dental Clinic Appointment App"
           description="An webapp designed by me for Dr Sidharth Malhotra's dental clinic. made using firebase, Next.js and tailwind. The app can help patient to view services at the clinic, and even book appointments. patient has to login via patient login, and when the doctor is logged in via his own specific credintials, he can reject or approve the appoinntent requests.Also there is a Dental assistant created on Gemini AI,s api, which can ask various questions related to dental Procedures and other dental terms..."
         />
+                <ProjectCard
+          src="/vc.png"
+          title="Vision Craft Studio"
+          description="Vision Craft studios is an app with features like ai object removal ,theme , colours , face merge and many more all powered by gemini api.Its not fully ready yet, the authentication part is still pending and the payment method is not powerfull yet , cause i have integrated my qr code and for verification an ai tool that verifies screenshot with a certain time limit , which means its not full ready yet, so go and enjoy free 60 credits and give my app a try :)...."
+        />
       </div>
     </div>
   );

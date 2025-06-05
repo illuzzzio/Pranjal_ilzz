@@ -23,7 +23,17 @@ const About = () => {
           <SkillCard title="OpenCV" />
           <SkillCard title="Machine Learning" />
           <SkillCard title="C++" />
-          <SkillCard title="Arduino IDE" />
+          <SkillCard title="C" />
+          <SkillCard title="OOPS" />
+          <SkillCard title="HTML" />
+          <SkillCard title="CSS" />
+          <SkillCard title="TypeScript" />
+          <SkillCard title="Unity Engine" />
+          <SkillCard title="C#" />
+          <SkillCard title="DSA" />
+          <SkillCard title="Firebase" />
+          <SkillCard title="Firebase studio" />
+          <SkillCard title="Clerk SDK" />
         </div>
       </div>
 
