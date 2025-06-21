@@ -34,8 +34,8 @@ const Navbar = () => {
             <Link href="/" className="hover:text-purple-400 transition duration-200">
               Home
             </Link>
-              <Link href="https://visioncraft-five.vercel.app/" className="hover:text-purple-400 transition duration-200">
-              Vision Craft
+              <Link href="https://ezzhire.vercel.app/" className="hover:text-purple-400 transition duration-200">
+              EzzHire
             </Link>
           </div>
         </div>
